@@ -92,7 +92,7 @@
                                     <a href="">
 					<div class="panel-body easypiechart-panel">
 						<h4>Agenda</h4>
-						<div class="easypiechart"><img src="assets/images/consulta.png" />
+						<div class="easypiechart"><img src="assets/images/calendar.png" />
 						</div>
 					</div>
                                     </a>

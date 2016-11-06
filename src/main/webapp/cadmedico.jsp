@@ -50,6 +50,16 @@
                             <label>Naturalidade</label>
                             <input class="form-control" name="naturalidade" placeholder="Naturalidade">
                         </div>
+                        
+                        <div class="form-group" id="cidade">
+                            <label>Cidade</label>
+                            <input class="form-control" name="cidade" placeholder="Cidade">
+                        </div>
+                        
+                        <div class="form-group" id="telefone">
+                            <label>Telefone</label>
+                            <input class="form-control" name="telefone" placeholder="Telefone">
+                        </div>
 
                     </div>
 
@@ -72,6 +82,16 @@
                             <label>Nacionalidade</label>
                             <input class="form-control" name="nacionalidade" placeholder="Brasileira">
                         </div>
+                        
+                        <div class="form-group" id="endereco">
+                            <label>Endereço</label>
+                            <input class="form-control" name="endereco" placeholder="Endereço">
+                        </div>
+                        
+                        <div class="form-group" id="estado">
+                            <label>Estado</label>
+                            <input class="form-control" name="estado" placeholder="Estado">
+                        </div>
 
                     </div>
                 </div>
@@ -82,6 +102,11 @@
                         <div class="form-group" id="crm">
                             <label>CRM</label>
                             <input class="form-control" name="crm" placeholder="CRM">
+                        </div>
+                        
+                        <div class="form-group" id="especialidade">
+                            <label>Especialidade</label>
+                            <input class="form-control" name="especialidade" placeholder="Especialidade">
                         </div>
 
                     </div>
@@ -94,7 +119,7 @@
                         </div>
 
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-12">
 
                         <button type="submit" class="btn btn-primary">Cadastrar</button>
 

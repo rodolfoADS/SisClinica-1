@@ -50,6 +50,16 @@
                             <label>Naturalidade</label>
                             <input class="form-control" name="naturalidade" placeholder="Naturalidade">
                         </div>
+                        
+                        <div class="form-group" id="cidade">
+                            <label>Cidade</label>
+                            <input class="form-control" name="cidade" placeholder="Cidade">
+                        </div>
+                        
+                        <div class="form-group" id="telefone">
+                            <label>Telefone</label>
+                            <input class="form-control" name="telefone" placeholder="Telefone">
+                        </div>
 
                     </div>
 
@@ -72,6 +82,16 @@
                             <label>Nacionalidade</label>
                             <input class="form-control" name="nacionalidade" placeholder="Brasileira">
                         </div>
+                        
+                        <div class="form-group" id="endereco">
+                            <label>Endereço</label>
+                            <input class="form-control" name="endereco" placeholder="Endereço">
+                        </div>
+                        
+                        <div class="form-group" id="estado">
+                            <label>Estado</label>
+                            <input class="form-control" name="estado" placeholder="Estado">
+                        </div>
 
                     </div>
                 </div>
@@ -84,16 +104,15 @@
                             <input class="form-control" name="pai" placeholder="Nome do Pai">
                         </div>
                         
-                        <div class="form-group" id="operadora">
-                            <label>Operadora</label>
-                            <input class="form-control" name="operadora" placeholder="Operadora">
-                        </div>
-                        
                         <div class="form-group" id="cns">
-                            <label>Cartão Nacional SUS</label>
-                            <input class="form-control" name="cns" placeholder="Cartão Nacional SUS">
+                            <label>Cartão SUS</label>
+                            <input class="form-control" name="cns" placeholder="Cartão SUS">
                         </div>
                         
+                        <div class="form-group" id="ncartão">
+                            <label>Número do Cartão</label>
+                            <input class="form-control" name="ncartao" placeholder="Número do Cartão">
+                        </div>
 
                     </div>
 
@@ -101,17 +120,16 @@
 
                         <div class="form-group" id="mae">
                             <label>Nome da Mãe</label>
-                            <input class="form-control" name="mae" placeholder="Nome da Mãe">
+                            <input class="form-control" name="mae" placeholder="Nome da Mão">
                         </div>
                         
-                        <div class="form-group" id="nopeardora">
-                            <label>Número do Cartão</label>
-                            <input class="form-control" name="noperadora" placeholder="Número do Catão">
+                        <div class="form-group" id="operadora">
+                            <label>Operadora</label>
+                            <input class="form-control" name="operadora" placeholder="Operadora">
                         </div>
 
                     </div>
-                    
-                    <div class="col-md-6">
+                    <div class="col-md-12">
 
                         <button type="submit" class="btn btn-primary">Cadastrar</button>
 
